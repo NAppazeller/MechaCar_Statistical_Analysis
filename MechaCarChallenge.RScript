@@ -24,7 +24,7 @@ summarize_demo <- Suspension %>% summarize(Mean=mean(PSI),Median=(PSI),Variance=
 #each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil's PSI column
 lot_demo <- Suspension %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI),Median=(PSI),Variance=var(PSI),SD=sd(PSI))
 
-#Deliverable 3 -----------------------------------------------------------
+#Deliverable 3
 #In your MechaCarChallenge.RScript, write an RScript using the t.test() function to determine if the PSI across 
 #all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch 
 t.test(Suspension$PSI,mu = 1500)
