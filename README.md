@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-write a short summary using a screenshot of the output from the linear regression, and address the following questions:
+![](https://github.com/NAppazeller/MechaCar_Statistical_Analysis/blob/main/linear%20regression%20output.jpg)
 
 *Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?*
 
@@ -26,10 +26,14 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 
 ## T-Tests on Suspension Coils
+### T-Test Across All Manufactoring
+![](https://github.com/NAppazeller/MechaCar_Statistical_Analysis/blob/main/PTest%20Output_1.jpg)
+
+### T-Tests Across 3 Manufactoring Lots
+![](https://github.com/NAppazeller/MechaCar_Statistical_Analysis/blob/main/PTest%20Output.jpg)
 
 *There is a summary of the t-test results across all manufacturing lots and for each lot*
-briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
-summary of the t-test results across all manufacturing lots and for each lot 
+briefly summarize your interpretation and findings for the t-test results. 
 
 
 ## Study Design: MechaCar vs Competition
