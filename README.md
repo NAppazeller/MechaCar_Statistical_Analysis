@@ -23,23 +23,22 @@ Yes, this linear model predicts the mpg of MechaCar prototypes effectively. Look
 Lots 1 & 2 have a PSI variance of 0.98 and 7.47, respectively. Whereas Lot 3 has a PSI variance of 170.29 which does not meet current design specifications.
 
 ## T-Tests on Suspension Coils
-### T-Test Across All Manufactoring
+### T-Test Across All Manufacturing
 ![](https://github.com/NAppazeller/MechaCar_Statistical_Analysis/blob/main/PTest%20Output_1.jpg)
 
-### T-Tests Across 3 Manufactoring Lots
+### T-Tests Across 3 Manufacturing Lots
 ![](https://github.com/NAppazeller/MechaCar_Statistical_Analysis/blob/main/PTest%20Output.jpg)
 
-Using t-tests we're able determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. By observing the p-value we can see that the population lot and lots 1 & 2  have a p-value greater than 0.05 which indicates they are statistically different from the population mean of 1,500 pounds per square inch.
+Using t-tests we're able determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. By observing the p-value we can see that the population lot and lots 1 & 2 have a p-value greater than 0.05% which indicates they are statistically different from the population mean of 1,500 pounds per square inch.
 
 ## Study Design: MechaCar vs Competition
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+In today's market, where many consumers have been significantly impacted by the Covid-19 pandemic, costs associated with vehicle ownership will be critical. Metrics that will need to be tested include the car's cost, fuel efficiency, and maintenance.
 
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+Our alternative hypothesis would be how do we differentiate in car cost, mpg and maintenance from the competition.
+
+Using competitor data related to car cost, fuel efficiency and maintenance we would perform t-tests.
+
 
 
 
