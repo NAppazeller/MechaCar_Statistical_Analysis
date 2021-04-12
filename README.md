@@ -35,7 +35,7 @@ Using t-tests we're able determine if all manufacturing lots and each lot indivi
 
 In today's market, where many consumers have been significantly impacted by the Covid-19 pandemic, costs associated with vehicle ownership will be critical. Metrics that will need to be tested include the car's cost, fuel efficiency, and maintenance.
 
-Our alternative hypothesis would be how do we differentiate in car cost, mpg and maintenance from the competition.
+The alternative hypothesis would be how does MechaCar differentiate in car cost, mpg and maintenance from the competition.
 
 Using competitor data related to car cost, fuel efficiency and maintenance we would perform t-tests.
 
