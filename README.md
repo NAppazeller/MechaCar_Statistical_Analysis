@@ -29,9 +29,7 @@ Lots 1 & 2 have a PSI variance of 0.98 and 7.47, respectively. Whereas Lot 3 has
 ### T-Tests Across 3 Manufactoring Lots
 ![](https://github.com/NAppazeller/MechaCar_Statistical_Analysis/blob/main/PTest%20Output.jpg)
 
-*There is a summary of the t-test results across all manufacturing lots and for each lot*
-briefly summarize your interpretation and findings for the t-test results. 
-
+Using t-tests we're able determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. By observing the p-value we can see that the population lot and lots 1 & 2  have a p-value greater than 0.05 which indicates they are statistically different from the population mean of 1,500 pounds per square inch.
 
 ## Study Design: MechaCar vs Competition
 
