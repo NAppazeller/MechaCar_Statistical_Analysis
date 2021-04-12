@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-![](https://github.com/NAppazeller/MechaCar_Statistical_Analysis/blob/main/linear%20regression%20output.jpg)
+![](https://github.com/NAppazeller/MechaCar_Statistical_Analysis/blob/main/linear%20regression%20summary.jpg)
 
 *Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?*
 
