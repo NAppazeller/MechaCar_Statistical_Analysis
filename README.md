@@ -6,12 +6,15 @@
 
 *Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?*
 
+Vehicle weight, spoiler angle and all-wheel drive provided non-random amounts of variance.
 
 *Is the slope of the linear model considered to be zero? Why or why not?*
 
+The p-value of our linear regression analysis is 5.35 x 10<sup>-11</sup> , which is much smaller than our assumed significance level of 0.05%. There is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
 
-*Does this linear model predict mpg of MechaCar prototypes effectively? W*hy or why not?
+*Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
+Yes, this linear model predicts the mpg of MechaCar prototypes effectively. Looking at the R-squared value of 0.7149 we can estimate an accurate prediction rate of 71%.   
 
 ## Summary Statistics on Suspension Coils
 
